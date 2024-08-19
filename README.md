@@ -1,1 +1,1 @@
-## chart creater machine learning project
+## chart creator machine learning project
